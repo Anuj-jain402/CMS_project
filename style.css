@@ -5,13 +5,13 @@
 }
 .main-header
 {
-    background-image: url(images/Banner1.jpg);
+    background-image: url(Banner1.jpg);
     background-size: cover;
     padding-top: 150px;
     padding-bottom: 150px;
 }
 .default-header{
-    background-image: url(images/Banner1.jpg);
+    background-image: url(Banner1.jpg);
     background-size: cover;
     padding-top: 60px;
     padding-bottom: 50px;
